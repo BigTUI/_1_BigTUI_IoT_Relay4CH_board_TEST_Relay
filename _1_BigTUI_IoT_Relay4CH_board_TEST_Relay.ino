@@ -34,7 +34,6 @@ void setup()
 void loop()
 {
   delay(TimeDelay);
-  Serial.begin(115200);
   Serial.println();
   digitalWrite(LED1, HIGH); // ไฟติด
   Serial.print("LED1= ON , Pin ="); Serial.println(LED1);
