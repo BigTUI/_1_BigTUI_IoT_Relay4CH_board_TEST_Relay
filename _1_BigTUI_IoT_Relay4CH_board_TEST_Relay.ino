@@ -1,3 +1,6 @@
+//test upload to github
+//https://github.com/BigTUI/_1_BigTUI_IoT_Relay4CH_board_TEST_Relay
+
 #include <Wire.h>
 #define LED1 14 // D5
 #define LED2 12 //D6
